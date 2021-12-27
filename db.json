@@ -1,0 +1,23 @@
+{
+    "burguers":
+    [
+        {
+            
+            "id":0,
+            "name": "8FI9",
+            "ingredients": ["res", "ensalada", "cebolla", "queso cheddar", "tocino", "crema de blue cheese", "datiles", "pepperoni"],
+            "impuestos": false,
+            "precio": 650,
+            "restaurante": "viralata"    
+        }, 
+        {
+            
+            "id":1,
+            "name": "Muerte Lenta",
+            "ingredients": ["res", "ensalada", "cebolla","tomate", "queso cheddar","platano maduro", "tocino", "queso de cabra", "cebolla caramelizada", "chicharron", "pork belly"],
+            "impuestos": false,
+            "precio": 675,
+            "restaurante": "viralata"    
+        }
+    ]
+}
